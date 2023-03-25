@@ -1,0 +1,63 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cuerpo{
+    padding: 10%;
+    margin: 0%;
+    width: 100%;
+    height: 977px;
+    background-color: rgb(99, 99, 99);
+    text-align: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+.form{
+    background-color: rgb(255, 255, 255);
+    padding: 5%;
+    border-radius: 20px;
+    height:80% ;
+    justify-content: center;
+    text-align: center;
+}
+
+h1,p,a{
+    padding-top: 10%;
+}
+
+.bot{
+    margin-top: 5%;
+    border-radius: 10px;
+    font-size: 1em;
+    background-color: rgb(255, 255, 255);
+    padding: 2%;
+    cursor: pointer;
+}
+#botRegistrar{
+    margin-top: 5%;
+    border-radius: 10px;
+    font-size: 1em;
+    background-color: rgb(72, 48, 197);
+    padding: 2%;
+    color: white;
+    cursor: pointer;
+}
+
+
+input{
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+}
+
+.alerta{
+    padding: 0%;
+    margin: 0%;
+    color: brown;
+    font-weight: bold;
+}

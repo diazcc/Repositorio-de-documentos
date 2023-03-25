@@ -1,0 +1,68 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.cuerpo{
+    padding: 10%;
+    margin: 0%;
+    width: 100%;
+    height: 200vh;
+    background-color: rgb(123, 123, 123);
+    text-align: center;
+    display: inline-block;
+}
+
+.header{
+    margin: 5%;
+    height: 100px;
+    font-size: 25px;
+    
+}
+
+.formulario{
+    background-color: rgb(255, 255, 255);
+    margin: 2%;
+    padding: 2%;
+    border-radius: 30px;
+    font-size: 2em;
+}
+
+form{
+    display: block;
+}
+
+.seccion{
+    height: 400px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+}
+
+.carddoc{
+    padding: 2%;
+    margin: 1%;
+    background-color: rgb(191, 191, 191);
+    border-radius: 25px;
+    height: 20vh;
+}
+
+.alerta{
+    padding: 0%;
+    margin: 0%;
+    color: brown;
+    font-weight: bold;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+}
+.bot{
+    margin: 1%;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    padding: 1%;
+    cursor: pointer;
+}
